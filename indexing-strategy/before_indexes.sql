@@ -1,0 +1,1 @@
+-- No useful indexes existed initially
